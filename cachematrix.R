@@ -2,6 +2,8 @@
 ## functions do
 
 ## Write a short comment describing this function
+## caching the Inverse of a Matrix:
+## This function creates special "Matrix"
 
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
